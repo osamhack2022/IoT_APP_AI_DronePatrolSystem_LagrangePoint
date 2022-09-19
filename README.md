@@ -19,8 +19,8 @@ Drone Patrol System
  
 ## 팀 정보 (Team Information)
 - yu je hyun (ggurggur123@naver.com), Github Id: REportPad
-- lee sang yeon (), Github Id: 
-- kim hye seong(), Github Id:
+- lee sang yeon (sylee0704@snu.ac.kr), Github Id: BrainConnection
+- kim hye seong(khsfun0312@skku.edu), Github Id: hyesungKomet
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
