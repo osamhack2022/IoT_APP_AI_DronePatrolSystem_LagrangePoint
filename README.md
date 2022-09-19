@@ -16,13 +16,6 @@ Drone Patrol System
 ### App
  -  UI framework
  - 기타 사용한 라이브러리
-
-## 설치 안내 (Installation Process)
-```bash
-$ git clone git주소
-$ yarn or npm install
-$ yarn start or npm run start
-```
  
 ## 팀 정보 (Team Information)
 - yu je hyun (ggurggur123@naver.com), Github Id: REportPad
