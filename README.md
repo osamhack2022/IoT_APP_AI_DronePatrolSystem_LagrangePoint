@@ -4,10 +4,6 @@ Drone Patrol System
 ## 프로잭트 소개
 - 드론을 활용하여 지정한 순찰 구역을 감시함
 
-
-## 기능 설명
- - 자율주행 드론으로 원하는 구역을 순찰합니다.
-
 ## 기술 스택 (Technique Used) 
 ### IoT
  - Arduino, Raspberry Pi
