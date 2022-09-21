@@ -1,4 +1,5 @@
 # Project Name
+![lp](https://user-images.githubusercontent.com/20692398/191516309-884098e6-ba02-4687-a96f-b9e8b9faa798.png)
 Drone Patrol System
 
 ## 프로잭트 소개
