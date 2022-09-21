@@ -6,16 +6,16 @@ Drone Patrol System
 
 
 ## 기능 설명
- - 설명 기입
+ - 자율주행 드론으로 원하는 구역을 순찰합니다.
 
 ## 기술 스택 (Technique Used) 
 ### IoT
  - Arduino, Raspberry Pi
- - Computer Vision
+ - Computer Vision, Deep Learning
  
 ### App
- -  UI framework
- - 기타 사용한 라이브러리
+ - Flutter
+ - Real-time data communication
  
 ## 팀 정보 (Team Information)
 - yu je hyun (ggurggur123@naver.com), Github Id: REportPad
