@@ -6,7 +6,8 @@ Drone Patrol System
 
 ## 기술 스택 (Technique Used) 
 ### IoT
- - Arduino, Raspberry Pi
+ - Arduino
+ - Raspberry Pi
 
 ### App
  - Flutter
