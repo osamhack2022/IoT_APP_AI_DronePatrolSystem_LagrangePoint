@@ -36,7 +36,6 @@
   * Code for Arduino: GPL v3
   * Code for RaspberryPi: BSD 3-Clause
 * APP: BSD 3-Clause
-* WEB: BSD 3-Clause
 
 
 
