@@ -1,8 +1,14 @@
-# Project Name
-Drone Patrol System
+[![English](https://img.shields.io/badge/-English-blue.svg?style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/README_EN.md) [![한국어](https://img.shields.io/badge/-한국어-red.svg?style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/README.md)
 
-## 프로잭트 소개
-- 드론을 활용하여 지정한 순찰 구역을 감시함
+
+# 드론 순찰 시스템 (Lagrange Point)
+
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/osamhack2020/IoT_KookMoBan_PonJohmNaimann)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/releases)
+[![Code for Arduino](https://img.shields.io/badge/Code_for_Arduino-GPL_v3.0-green?&style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/LICENSE)
+[![Code for Arduino](https://img.shields.io/badge/Code_for_Raspberry-BSD_3--Clause-green?&style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/LICENSE)
+
+## Introduction
+**드론 순찰 시스템**은 드론을 사용하여 원하는 구역을 순찰을 하는 프로젝트입니다. IoT, APP, AI 분야의 기술을 사용합니다.
 
 ## Manual
 본 프로젝트는 오픈소스 프로젝트로 진행되며, 본 프로젝트에 관심이 있는 개발자와 사용자를 위하여 **튜토리얼 GitBook**을 제작하여 공개하고 있습니다.
@@ -13,31 +19,26 @@ Drone Patrol System
 </a>
 </p>
 
-## 기술 스택 (Technique Used) 
-### IoT
- - Arduino
- - Raspberry Pi
 
-### App
- - Flutter
- - Real-time data communication
- 
- ### Computer Vision
- - Deep Learning
- - OpenCV
- 
-## 팀 정보 (Team Information)
-- yu je hyun (ggurggur123@naver.com), Github Id: REportPad
-- lee sang yeon (sylee0704@snu.ac.kr), Github Id: BrainConnection
-- kim hye seong(khsfun0312@skku.edu), Github Id: hyesungKomet
+## Contribution
+실시간 소통이 가능하고 문서화에 유리한 아래의 **Notion 페이지**에서 이루어집니다.
 
-## 저작권 및 사용권 정보 (Copyleft / End User License)
- * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+<p align="center">
+<a href="https://www.notion.so/779e5489ee5c47daa2de1aaf3b9c98f8"  target="_blank">
+<img src="https://img.shields.io/badge/NOTION-team_page-green?&style=for-the-badge&logo=notion">
+</a>
+</p>
 
-This project is licensed under the terms of the MIT license.
 
-※ [라이선스 비교표(클릭)](https://olis.or.kr/license/compareGuide.do)
+## License
+라이센스의 구체적인 내용 및 써드파티 SW에 대해서는 본 리포지토리의 LICENSE 파일 및 튜토리얼 GitBook의 <a href="https://lagrange-point.gitbook.io/drone/">LICENSE 페이지</a>를 참조하십시오.
+* IoT
+  * Code for Arduino: GPL v3
+  * Code for RaspberryPi: BSD 3-Clause
+* APP: BSD 3-Clause
+* WEB: BSD 3-Clause
 
-※ [Github 내 라이선스 키워드(클릭)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 
-※ [\[참조\] Github license의 종류와 나에게 맞는 라이선스 선택하기(클릭)](https://flyingsquirrel.medium.com/github-license%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%9E%EB%8A%94-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-ae29925e8ff4)
+
+## Copyright
+Copyrightⓒ 2020 Pon Johm Naimann, All rights reserved.
