@@ -18,8 +18,6 @@ Drone Patrol System
  - OpenCV
  
 ## 팀 정보 (Team Information)
-![lp](https://user-images.githubusercontent.com/20692398/191516309-884098e6-ba02-4687-a96f-b9e8b9faa798.png)
-
 - yu je hyun (ggurggur123@naver.com), Github Id: REportPad
 - lee sang yeon (sylee0704@snu.ac.kr), Github Id: BrainConnection
 - kim hye seong(khsfun0312@skku.edu), Github Id: hyesungKomet
