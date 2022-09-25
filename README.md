@@ -6,6 +6,7 @@
 
 ## Introduction
 ![dps1](https://user-images.githubusercontent.com/20692398/192144223-1a90aecf-acb6-4e5e-b8f9-908175871b8f.PNG)
+
 **드론 순찰 시스템**은 드론을 사용하여 원하는 구역을 순찰을 하는 프로젝트입니다. IoT, APP, AI 분야의 기술을 사용합니다.
 
 ## Manual
