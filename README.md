@@ -4,6 +4,15 @@ Drone Patrol System
 ## 프로잭트 소개
 - 드론을 활용하여 지정한 순찰 구역을 감시함
 
+## Manual
+본 프로젝트는 오픈소스 프로젝트로 진행되며, 본 프로젝트에 관심이 있는 개발자와 사용자를 위하여 **튜토리얼 GitBook**을 제작하여 공개하고 있습니다.
+
+<p align="center">
+<a href="https://lagrange-point.gitbook.io/drone/">
+<img src="https://img.shields.io/badge/GitBook-project_doc-blue?&style=for-the-badge&logo=github">
+</a>
+</p>
+
 ## 기술 스택 (Technique Used) 
 ### IoT
  - Arduino
