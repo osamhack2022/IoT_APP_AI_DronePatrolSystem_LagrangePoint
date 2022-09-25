@@ -1,6 +1,3 @@
-[![English](https://img.shields.io/badge/-English-blue.svg?style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/README_EN.md) [![한국어](https://img.shields.io/badge/-한국어-red.svg?style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/README.md)
-
-
 # 드론 순찰 시스템 (Lagrange Point)
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/osamhack2020/IoT_KookMoBan_PonJohmNaimann)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/releases)
