@@ -23,7 +23,7 @@
 실시간 소통이 가능하고 문서화에 유리한 아래의 **Notion 페이지**에서 이루어집니다.
 
 <p align="center">
-<a href="https://www.notion.so/779e5489ee5c47daa2de1aaf3b9c98f8"  target="_blank">
+<a href="https://www.notion.so/Lagrange-Point-bfc8306e4e9345f8995096ed1fd1c6dc"  target="_blank">
 <img src="https://img.shields.io/badge/NOTION-team_page-green?&style=for-the-badge&logo=notion">
 </a>
 </p>
