@@ -37,6 +37,5 @@
 * APP: BSD 3-Clause
 
 
-
 ## Copyright
-Copyrightⓒ 2020 Pon Johm Naimann, All rights reserved.
+Copyrightⓒ 2022 Lagrange Point, All rights reserved.
