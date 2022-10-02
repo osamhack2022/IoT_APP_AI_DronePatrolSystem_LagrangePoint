@@ -33,8 +33,8 @@
 라이센스의 구체적인 내용 및 써드파티 SW에 대해서는 본 리포지토리의 LICENSE 파일 및 튜토리얼 GitBook의 <a href="https://lagrange-point.gitbook.io/drone/">LICENSE 페이지</a>를 참조하십시오.
 * IoT
   * Code for Arduino: GPL v3
-  * Code for RaspberryPi: BSD 3-Clause
-* APP: BSD 3-Clause
+  * Code for RaspberryPi:
+* APP:
 
 
 ## Copyright
