@@ -16,7 +16,7 @@
 
 
 ## Contribution
-실시간 소통이 가능하고 문서화에 유리한 아래의 **Notion 페이지**에서 이루어집니다.
+실시간 소통이 가능하고 문서화에 유리한 **Notion 페이지**를 사용합니다.
 
 <p align="center">
 <a href="https://www.notion.so/Lagrange-Point-bfc8306e4e9345f8995096ed1fd1c6dc"  target="_blank">
