@@ -1,9 +1,5 @@
 # 드론 순찰 시스템 (Lagrange Point)
 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/osamhack2020/IoT_KookMoBan_PonJohmNaimann)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/releases)
-[![Code for Arduino](https://img.shields.io/badge/Code_for_Arduino-GPL_v3.0-green?&style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/LICENSE)
-[![Code for Arduino](https://img.shields.io/badge/Code_for_Raspberry-BSD_3--Clause-green?&style=flat)](https://github.com/osamhack2020/IoT_KookMoBan_PonJohmNaimann/blob/master/LICENSE)
-
 ## Introduction
 ![dps1](https://user-images.githubusercontent.com/20692398/192144223-1a90aecf-acb6-4e5e-b8f9-908175871b8f.PNG)
 
