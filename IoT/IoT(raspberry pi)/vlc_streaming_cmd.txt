@@ -1,0 +1,1 @@
+cvlc v4l2:///dev//video0:width=640:height=480:fps=30:chroma=mjpg --noaudio  --no-sout-audio --sout '#standard{access=http, mux=mpjpeg,dst=:8090/}'
