@@ -1,62 +1,35 @@
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
+import '/pages/home_page.dart';
+import '/pages/login_page.dart';
 
-void main() => runApp(const VideoApp());
-
-/// Stateful widget to fetch and then display video content.
-class VideoApp extends StatefulWidget {
-  const VideoApp({Key? key}) : super(key: key);
-
-  @override
-  _VideoAppState createState() => _VideoAppState();
+void main() {
+  runApp(MyApp());
 }
 
-class _VideoAppState extends State<VideoApp> {
-  late VideoPlayerController _controller;
-
-  @override
-  void initState() {
-    super.initState();
-    _controller = VideoPlayerController.network(
-        'https://media.w3.org/2010/05/sintel/trailer.mp4')
-      ..initialize().then((_) {
-        // Ensure the first frame is shown after the video is initialized, even before the play button has been pressed.
-        setState(() {});
-      });
-  }
-
+class MyApp extends StatelessWidget {
+  String? cam_url, gps_url;
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Live Video',
-      home: Scaffold(
-        body: Center(
-          child: _controller.value.isInitialized
-              ? AspectRatio(
-                  aspectRatio: _controller.value.aspectRatio,
-                  child: VideoPlayer(_controller),
-                )
-              : Container(),
-        ),
-        floatingActionButton: FloatingActionButton(
-          onPressed: () {
-            setState(() {
-              _controller.value.isPlaying
-                  ? _controller.pause()
-                  : _controller.play();
-            });
-          },
-          child: Icon(
-            _controller.value.isPlaying ? Icons.pause : Icons.play_arrow,
+      // 1. 테마 설정
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        textButtonTheme: TextButtonThemeData(
+          style: TextButton.styleFrom(
+            backgroundColor: Colors.black,
+            primary: Colors.white,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(30),
+            ),
+            minimumSize: Size(400, 60),
           ),
         ),
       ),
+      initialRoute: "/login",
+      routes: {
+        "/login": (context) => LoginPage(),
+        "/home": (context) => HomePage(),
+      },
     );
-  }
-
-  @override
-  void dispose() {
-    super.dispose();
-    _controller.dispose();
   }
 }
