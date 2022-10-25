@@ -6,7 +6,4 @@
 이 소프트웨어는 현재 트라이콥터, 쿼드콥터 또는 헥사콥터를 제어할 수 있습니다.
 
 ## License
-* Code for Arduino: GPL v3
-
-## Copyright
-Copyrightⓒ 2022 Lagrange Point, All rights reserved.
+* GPL v3
